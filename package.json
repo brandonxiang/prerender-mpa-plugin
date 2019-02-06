@@ -1,0 +1,16 @@
+{
+  "name": "prerender-mpa-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brandonxiang/prerender-mpa-plugin.git",
+  "author": "brandonxiang <1542453460@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "prerender-spa-plugin": "^3.4.0",
+    "typescript": "^3.2.4",
+    "webpack": "^4.28.4"
+  }
+}
